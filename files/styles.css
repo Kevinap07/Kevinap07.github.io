@@ -1,10 +1,10 @@
 body {
-	background: grey;
-	font-family: Arial;
+	background: [grey];
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-	color: blue;
+	color: [blue];
 	text-align: center;
 }
 
@@ -12,10 +12,10 @@ h1 {
 	display: flex;
 	padding: 10px;
 	margin: 10px;
-	background: grey;
+	background: [grey];
 }
 
 .assign img {
-	width: 250px;
+	width: 200px;
 	padding: 10px;
 }
